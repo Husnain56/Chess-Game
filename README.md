@@ -82,6 +82,7 @@ The game handles moves of all types of pieces and the special moves such as pawn
 # Contributors
 
 Husnain Barkat Ali
+
 Noor Ul Sabah
 
 # Dependencies
