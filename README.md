@@ -79,6 +79,11 @@ Timer: A timer keeps track of the game duration, adding an element of time manag
 
 The game handles moves of all types of pieces and the special moves such as pawn promotion , checks, pins , stalemate and checkmate.
 
+# Contributors
+
+Husnain Barkat Ali
+Noor Ul Sabah
+
 # Dependencies
 
 SFML Library: Simple and Fast Multimedia Library (SFML)
